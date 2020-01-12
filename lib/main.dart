@@ -186,6 +186,7 @@ children: <Widget>[
 
         color: (selectedFood== foodName) ? Color(0xffe74c3c) : Colors.transparent,
         child: Column(
+
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
                 Icon(foodIcon,color: Colors.white,
