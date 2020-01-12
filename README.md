@@ -1,16 +1,10 @@
-# flutter_testing_app
+<h1>WelcomeToJapan screen </h1>
+<img style={height=350, width=350} , src="https://github.com/Issamoh/WelcomeToJapan/blob/master/screenShot.png"/>
+<h3>By observing this little of code you'll learn :</h3>
+<ul>
+<li>when to use ListView widget, Stack widget,Positioned widget,Padding widget,Column widget,Row widget ... etc</li>l
+<li>How to use ShaderMask widget</li>l
+  <li>How to make animated buttons using AnimatedContainer. </li>l
+ <li>How to make your layouts responsive</li>l
+</ul>
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
